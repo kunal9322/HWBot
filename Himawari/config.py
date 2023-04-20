@@ -61,16 +61,16 @@ class Config(object):
     DB_URL2="mongodb+srv://meowhisswswuj7.mongodb.net/?retryWrites=true&w=majority" #mongo db (not necessary)
     DB_URL="postgresql://wdsdsw@ldsas/wasassddb" #postgres sql database link
     REDIS_URL="redis://dsds3@reddsdsuth-1-1.ec2.cloud.redislabs.com:154dsd/Arssddsdsb" #redis database url from redislabs.com
-    TOKEN="54dssdV8e59Odo" #bot token from @BotFather
-    DEV_USERS=[5437915218] #developers id
-    DRAGONS=[9656] #sudo users id
-    DEMONS=[1909] #support user ids
-    TIGERS=[1] #commas for multiple ids
+    TOKEN="5481492613:AAGEoed5DnY2AtZ86nVLaev59Ty8cMa3fB4" #bot token from @BotFather
+    DEV_USERS=[5885920877] #developers id
+    DRAGONS=[6091170475] #sudo users id
+    DEMONS=[778393824] #support user ids
+    TIGERS=[1045939902] #commas for multiple ids
     WOLVES=[2112, 1212] #commas for multiple ids 
-    DONATION_LINK="https://www.paypal.me/PaulSonOfLars" #u can change with yours
-    EVENT_LOGS=-100159 #channel id for gban logs
+    DONATION_LINK="MH17_KUNAL.t.me" #u can change with yours
+    EVENT_LOGS=-1001935950378 #channel id for gban logs
     JOIN_LOGGER=-1001523  #log channel/group id
-    OWNER_ID=5437915218 #owner id in integer
+    OWNER_ID=6091170475 #owner id in integer
     ERROR_LOGS=-1001 #support group id
     BOT_ID = 2321 #id of bot in integer value
     BOT_NAME="Himawari" #your bot name
