@@ -83,7 +83,7 @@ class Config(object):
     REM_BG_API_KEY="K2dsdsYma6cZx" #not necessary
     GENIUS_API_TOKEN="e-8UdRQNrIssPyM" # api token from genius.com (not necessary)
     TIME_API_KEY="QLLLDV7SWFD3" #not necessary
-    SPAMWATCH_API="J968E_20LgxrKjsdN24cqYtD~gNRTbU" #spamwatch api token from @SpamWatchBot
+    SPAMWATCH_API="YvmbZdX4td1WgKSEun9yG7qVl1WVB9it8hVIyoFEHYFBaTrESPWTIFvyEiF8Esj~" #spamwatch api token from @SpamWatchBot
     WALL_API="6950f5ds6a3" #wall api (not necessary)
 
 
